@@ -149,7 +149,11 @@ The design was compiled and simulated using Synopsys VCS, and the functionality 
 
 ## Output
 
+###  Multiplexer:
+
 <img width="1366" height="768" alt="Screenshot 2026-11-20 171214" src="https://github.com/user-attachments/assets/83dd216f-62d8-4149-ac9e-3c95cad315a5" />
+
+###  Demultiplexer:
 
 <img width="1366" height="768" alt="Screenshot 2026-11-20 171250" src="https://github.com/user-attachments/assets/b9e3687d-e64b-47a8-9404-0a9438ebaa2a" />
 
